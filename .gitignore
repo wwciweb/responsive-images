@@ -57,3 +57,7 @@ typings/
 # dotenv environment variables file
 .env
 
+#source and dist files
+src/
+dist/
+optimized/

@@ -1,0 +1,25 @@
+{
+  "name": "responsive-images",
+  "version": "1.0.0",
+  "description": "Generates responsive image sets via gulp and sharp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wwciweb/responsive-images.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wwciweb/responsive-images/issues"
+  },
+  "homepage": "https://github.com/wwciweb/responsive-images#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-responsive": "^2.7.1",
+    "sharp": "^0.18.2"
+  }
+}
